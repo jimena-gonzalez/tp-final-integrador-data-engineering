@@ -1,0 +1,3 @@
+# Ignora los archivos relacionados a API keys y Salidas de pruebas
+Inputs/config.ini
+Output/datalake/landing/earthquake/*
